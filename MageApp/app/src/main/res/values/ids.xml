@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="firstname" />
+    <item type="id" name="lastname" />
+    <item type="id" name="company" />
+    <item type="id" name="email" />
+    <item type="id" name="street" />
+    <item type="id" name="street_2" />
+    <item type="id" name="city" />
+    <item type="id" name="country_id" />
+    <item type="id" name="region" />
+    <item type="id" name="region_id" />
+    <item type="id" name="postcode" />
+    <item type="id" name="telephone" />
+    <item type="id" name="fax" />
+    <item type="id" name="save_in_address_book" />
+
+    <item type="id" name="flatrate_flatrate" />
+    <item type="id" name="ups_GND" />
+    <item type="id" name="ups_3DS" />
+    <item type="id" name="ups_1DA" />
+
+    <item type="id" name="cc_type" />
+    <item type="id" name="cc_number" />
+    <item type="id" name="cc_exp_month" />
+    <item type="id" name="cc_exp_year" />
+    <item type="id" name="cc_cid" />
+
+</resources>

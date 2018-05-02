@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Mage App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="store_name">Madison Island</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="home">Home</string>
+    <string name="buy_now">Buy Now</string>
+    <string name="cart">Cart</string>
+    <string name="qty">Qty</string>
+    <string name="price">Price</string>
+    <string name="color">Color</string>
+    <string name="size">Size</string>
+    <string name="checkout">Checkout</string>
+    <string name="start_shopping">Start Shopping</string>
+    <string name="save">Save</string>
+    <string name="alert">Alert</string>
+    <string name="next">Next</string>
+    <string name="shopping_cart">Shopping Cart</string>
+    <string name="billing_info">Billing Information</string>
+    <string name="shipping_info">Shipping Information</string>
+    <string name="shipping_method">Shipping Method</string>
+    <string name="payment_info">Payment Information</string>
+    <string name="shipping_method_title">Select your shipping here</string>
+    <string name="payment_method_title">Select your payment here</string>
+    <string name="order_review">Order Review</string>
+    <string name="cont">continue</string>
+    <string name="card_verification_value">CVV</string>
+    <string name="your_order">Your Order</string>
+    <string name="product">Product</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="total">Total</string>
+    <string name="place_order">Place Order</string>
+    <string name="remove">Remove</string>
+    <string name="contact_sync">Contact Sync</string>
+    <string name="not_enough_contact_title">You don\'t have enough contact(s)!</string>
+    <string name="not_enough_contact_message">Please add more contact(s) then click the button again
+        to pre-populate address fields."</string>
+</resources>
